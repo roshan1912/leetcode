@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/roshan1912/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sliding Window
 |  |
@@ -27,17 +28,36 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/roshan1912/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
