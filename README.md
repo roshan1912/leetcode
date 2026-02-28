@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/roshan1912/leetcode/tree/master/0011-container-with-most-water) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/roshan1912/leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/roshan1912/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -70,9 +71,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/roshan1912/leetcode/tree/master/0011-container-with-most-water) |
 | [0658-find-k-closest-elements](https://github.com/roshan1912/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/roshan1912/leetcode/tree/master/0658-find-k-closest-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/roshan1912/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
