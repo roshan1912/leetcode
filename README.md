@@ -29,6 +29,7 @@
 | [0053-maximum-subarray](https://github.com/roshan1912/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/roshan1912/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshan1912/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/roshan1912/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0189-rotate-array](https://github.com/roshan1912/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/roshan1912/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roshan1912/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/roshan1912/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/roshan1912/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/roshan1912/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Greedy
