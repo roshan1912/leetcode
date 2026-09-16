@@ -9,11 +9,13 @@
 | [0242-valid-anagram](https://github.com/roshan1912/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0423-reconstruct-original-digits-from-english](https://github.com/roshan1912/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/roshan1912/leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3945-digit-frequency-score](https://github.com/roshan1912/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/roshan1912/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/roshan1912/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [3945-digit-frequency-score](https://github.com/roshan1912/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
