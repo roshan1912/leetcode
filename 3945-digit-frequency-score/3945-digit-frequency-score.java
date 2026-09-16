@@ -4,11 +4,8 @@ class Solution {
         int ans = 0;
         while (n > 0) {
             int num = n % 10;
-            map.put(num, map.getOrDefault(num, 0) + 1);
-            n = n / 10;
-        }
-        for (int key : map.keySet()) {
-            ans = ans + key * map.get(key);
+            ans += num;
+            n = n/10;
         }
         return ans;
     }
