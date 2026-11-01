@@ -15,6 +15,7 @@
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/roshan1912/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/roshan1912/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/roshan1912/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [3945-digit-frequency-score](https://github.com/roshan1912/leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/roshan1912/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/roshan1912/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/roshan1912/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/roshan1912/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0506-relative-ranks](https://github.com/roshan1912/leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/roshan1912/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/roshan1912/leetcode/tree/master/0912-sort-an-array) |
